@@ -1,1 +1,1 @@
-Refer to Fig_and_Tab.pdf
+Refer to tab_and_fig.pdf
